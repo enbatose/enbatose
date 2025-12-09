@@ -2,11 +2,12 @@
 
 <h2>📃 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Duke Univesity: AI Product Management](https://www.coursera.org/specializations/ai-product-management-duke)
+- [MIT: Data Science and Machine Learning: Making Data-Driven](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program?utm_campaign=IDSS_collab_page&utm_medium=collab_page&utm_source=idss-mit_website)
+- [APICS: Certified Supply Chain Professional](http://www.apics.org/credentials-education/credentials/cscp)
+- [PMI: Project Management Professional](https://www.pmi.org/certifications/types/project-management-pmp)
+- [Scrum Alliance: Certified Scrum Product Owner](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner)
+- [Scrum Alliance: Certified Scrum Master](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
 
 <h2>👨‍💻 Coding Portfolio - COMING SOON 🚧  </h2>
 
