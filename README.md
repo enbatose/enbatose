@@ -9,7 +9,7 @@
 - [Scrum Alliance: Certified Scrum Product Owner](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner)
 - [Scrum Alliance: Certified Scrum Master](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
 
-<h2>👨‍💻 Coding Portfolio - COMING SOON 🚧  </h2>
+<h2>🚧 COMING SOON 🚧: 👨‍💻 Coding Portfolio </h2>
 
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
