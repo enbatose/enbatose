@@ -2,7 +2,7 @@
 
 <h2>📃 Certifications</h2>
 
-- [Duke Univesity: AI Product Management](https://www.coursera.org/specializations/ai-product-management-duke)
+- [Duke University: AI Product Management](https://www.coursera.org/specializations/ai-product-management-duke)
 - [MIT: Data Science and Machine Learning: Making Data-Driven](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program?utm_campaign=IDSS_collab_page&utm_medium=collab_page&utm_source=idss-mit_website)
 - [APICS: Certified Supply Chain Professional](http://www.apics.org/credentials-education/credentials/cscp)
 - [PMI: Project Management Professional](https://www.pmi.org/certifications/types/project-management-pmp)
