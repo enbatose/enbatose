@@ -1,4 +1,4 @@
-<h1>Hi, I'm Enrique! <br/><a href="https://www.linkedin.com/in/enriquebatani/">AI Product Management Professional</a>,</h1>
+<h1>Hi, I'm Enrique! <br/><a href="https://www.linkedin.com/in/enriquebatani/">AI Product Management Professional</a></h1>
 
 <h2>📃 Certifications</h2>
 
