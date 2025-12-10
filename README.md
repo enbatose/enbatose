@@ -9,8 +9,10 @@
 - [Scrum Alliance: Certified Scrum Product Owner](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner)
 - [Scrum Alliance: Certified Scrum Master](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
 
-<h2>🚧 COMING SOON 🚧: 👨‍💻 Coding Portfolio </h2>
+<h2>👨‍💻 Portfolio </h2>
 
+- **Entrepreneurship**: [Roomix MX](https://github.com/enbatose/roomixmx)
+- *🚧 COMING SOON 🚧: Python based ML Prediction Systems.*
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
 
