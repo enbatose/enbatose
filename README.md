@@ -12,6 +12,7 @@
 <h2>👨‍💻 Portfolio </h2>
 
 - **Entrepreneurship**: [Roomix MX](https://github.com/enbatose/roomixmx)
+- *🚧 COMING SOON 🚧: Machine Learning based Product Recommendations.*
 - *🚧 COMING SOON 🚧: Python based ML Prediction Systems.*
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
